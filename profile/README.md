@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/renderconto-banner.png" alt="Render Conto - Gestione contabile e documentale per associazioni" width="100%">
+</p>
 # Render Conto
 
 **Render Conto** è un progetto nato per semplificare la gestione contabile, documentale e amministrativa delle associazioni e degli enti del Terzo Settore.
